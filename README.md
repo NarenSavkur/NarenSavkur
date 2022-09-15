@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NarenSavkur
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning the art of doing computer science
+- 🌱 I’m currently learning the art of computer sciencing
 - 💞️ I’m looking to collaborate on nothing related to CS
 - 📫 How to reach me Discord: PianoHombre#0483
 
